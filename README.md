@@ -4,6 +4,7 @@
 
 ### 2. CSS
 Media Query, Keyframes, Transform, Box-shadow에 대한 활용법을 배웠다.
+
 그 외에도 애매하게만 알고있던 CSS에 대해 더 배울수 있었다.
 
 ### 3. ETC
