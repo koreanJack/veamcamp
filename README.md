@@ -10,5 +10,8 @@ Media Query, Keyframes, Transform, Box-shadow에 대한 활용법을 배웠다.
 ### 3. ETC
 Sticky가 본문보다 빨리끊겨서 완성본을 보다가 ::after에 대해 알게되어 사용해보니 마음에 들게 작동한다
 
+### 4. 그리고?
+간단하게라도 개인 포트폴리오를 제작해봐야겠다.
+
 ## 빔캠프 반응형 자기소개 웹사이트 따라 만들기 강의 링크
 <https://www.youtube.com/watch?v=KYo62fhaR7M>
